@@ -39,7 +39,7 @@ Out of scope: generic system design, behavioral questions, non-FastAPI Python fr
 
 | # | Section | Est. Days | Why It Matters |
 |---|---------|-----------|----------------|
-| 09 | [Advanced Features](./09-advanced-features/) | 1.5 | WebSockets at scale, SSE, sub-applications |
+| 09 | [Advanced Features](./09-advanced-features/) | 2 | WebSockets at scale, Celery/ARQ task queues, job status patterns |
 | 11 | [Expert Internals & Edge Cases](./11-expert-internals-and-edge-cases/) | 3 | ASGI spec, raw middleware, pydantic-core, exception handler ordering — separates principal from senior |
 
 **Suggested order:** 01 → 02 → 11 → 03 → 04 → 05 → 07 → 06 → 08 → 09 → 10
