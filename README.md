@@ -31,7 +31,7 @@ Out of scope: generic system design, behavioral questions, non-FastAPI Python fr
 | # | Section | Est. Days | Why It Matters |
 |---|---------|-----------|----------------|
 | 05 | [Validation & Serialization](./05-validation-and-serialization/) | 1.5 | Custom validators, discriminated unions, OpenAPI customization |
-| 06 | [Security](./06-security/) | 1 | OAuth2, JWT, CORS — table stakes for any API role |
+| 06 | [Security](./06-security/) | 1.5 | OAuth2, JWT, CORS, rate limiting algorithms and Redis implementation |
 | 08 | [Performance & Production](./08-performance-production/) | 2.5 | Gunicorn tuning, connection pooling, profiling, Alembic migrations |
 | 10 | [Common Pitfalls](./10-common-pitfalls/) | 0.5 | Mutable defaults, circular imports, global state misuse |
 
