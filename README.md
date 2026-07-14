@@ -24,7 +24,7 @@ Out of scope: generic system design, behavioral questions, non-FastAPI Python fr
 | 02 | [Dependency Injection](./02-dependency-injection/) | 2 | The single deepest area interviewers probe; `yield` deps + caching + overrides distinguish mid from senior |
 | 03 | [Async Internals](./03-async-internals/) | 2 | Sync vs async endpoint threadpool behavior — production bugs live here |
 | 04 | [Routing & Middleware](./04-routing-and-middleware/) | 1 | Middleware stack ordering, lifespan, background tasks |
-| 07 | [Testing](./07-testing/) | 1 | `TestClient` vs `AsyncClient`, dependency overrides — every team asks this |
+| 07 | [Testing](./07-testing/) | 1.5 | `TestClient` vs `AsyncClient`, dependency overrides, pytest fixtures + DB isolation |
 
 ### Should-Know (expected at Senior level)
 
